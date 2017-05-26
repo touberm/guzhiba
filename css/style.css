@@ -207,7 +207,7 @@ margin-left:-45px;/*ff*/  *margin-left:-130px;/*ie7*/  _margin-left:15px;/*ie6*/
 .contact .center ul li input.joinBtn{ width:110px; height:52px; background:#fd685b; color:#fff; font-size:14px; cursor:pointer;}
 .contact .center form{padding-top:50px;margin:0 auto;width:860px;}
 .contact .center form input{height: 52px;width:110px;padding-left:10px;line-height: 52px;font-size:14px;border:0; border-radius:4px;}
-.contact .center form input.btn{background:#fd685b;color:#fff;cursor: pointer;}
+.contact .center form input.btn{background:#fd685b;color:#fff;cursor: pointer;padding-left:0;}
 .contact .center form .hint{text-align: right;font-size: 12px;padding-right:140px;}
 
 .copyright{ width:100%; background:#363842; overflow:hidden;}
